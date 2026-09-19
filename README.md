@@ -33,3 +33,8 @@ Built and tested a small office network with 2 PCs, 1 switch, and 1 router.
 - Functional testing
 - Regression testing
 - Defect documentation# network-testing-project
+- screenshots of my work
+- <img width="617" height="184" alt="Screenshot 2026-09-19 164642" src="https://github.com/user-attachments/assets/81bbc16f-a2eb-4a1b-b811-36f907212404" />
+<img width="627" height="214" alt="Screenshot 2026-09-19 165218" src="https://github.com/user-attachments/assets/94c2539f-cf5b-41f6-95b9-7f86bc043141" />
+<img width="654" height="174" alt="Screenshot 2026-09-19 165047" src="https://github.com/user-attachments/assets/64ef3db8-de24-492a-8f43-51a14ca33dc6" />
+
